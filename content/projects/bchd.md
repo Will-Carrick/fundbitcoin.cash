@@ -16,7 +16,7 @@ Other Team Members: Josh Ellithorpe, Tyler, Emergent Reasons
 
 Bchd is an alternative full node bitcoin cash implementation written in Go (golang).
 
-This project is a port of the btcd codebase to Bitcoin Cash. It provides a high powered and reliable blockchain server which makes it a suitable backend to serve blockchain data to lite clients and block explorers or to power your local wallet. 
+This project is a port of the btcd codebase to Bitcoin Cash. It provides a high powered and reliable blockchain server which makes it a suitable backend to serve blockchain data to lite clients and block explorers or to power your local wallet.
 
 The bchd team also maintains Neutrino, an advanced spv mobile wallet, and has made new updates including sync improvements, utxo commitments, utxo cache, address indexing, and a grpc public api.
 
