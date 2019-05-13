@@ -10,7 +10,7 @@ Source Repository: https://github.com/bitcoin-abc/bitcoin-abc
 
 Maintainer: Amaury Séchet
 
-Other Team Members: Jason B Cox, Antony Zegers
+Other Team Members: Jason B Cox, Antony Zegers, Fabien
 
 # About
 
